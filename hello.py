@@ -1,3 +1,3 @@
-#hello.py(main分支修改后)
 #主程序入口
-print("Hello, World!--来自main分支")
+name = "同学"
+print(f"你好，{name}!欢迎使用本项目。")
